@@ -1,0 +1,8 @@
+{
+  "name": " PawsPath - Premium Pet Transport Marketplace",
+  "description": "A high-end bidding marketplace for pet transport, featuring secure bidding, AI-assisted listing creation, and premium design aesthetics.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
